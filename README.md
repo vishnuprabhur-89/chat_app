@@ -1,3 +1,18 @@
+## Front End
+1. npm install
+2. npm start
+
+## Back-End
+1. node server,js
+
+## Work flow 
+
+1. Admin is default user.
+2. Users are yet to add.
+3. admin and users are can communicated effectively.
+4. if trying to test in mobile, please the localhost instead of localmachine ip address.
+
+-----------------------------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
